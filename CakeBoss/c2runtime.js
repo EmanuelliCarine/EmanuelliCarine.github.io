@@ -25079,11 +25079,11 @@ cr.behaviors.Physics = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio,
 	cr.plugins_.Button,
-	cr.plugins_.Particles,
+	cr.plugins_.Text,
 	cr.plugins_.Sprite,
 	cr.plugins_.TiledBg,
+	cr.plugins_.Particles,
 	cr.plugins_.Touch,
-	cr.plugins_.Text,
 	cr.behaviors.Bullet,
 	cr.behaviors.DragnDrop,
 	cr.behaviors.Physics,
@@ -25092,8 +25092,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Particles.prototype.acts.Destroy,
 	cr.system_object.prototype.acts.ResetGlobals,
 	cr.plugins_.Sprite.prototype.acts.Destroy,
-	cr.system_object.prototype.cnds.OnLayoutEnd,
-	cr.plugins_.Audio.prototype.acts.Stop,
 	cr.system_object.prototype.cnds.Every,
 	cr.system_object.prototype.acts.SetVar,
 	cr.system_object.prototype.exps.choose,
@@ -25117,12 +25115,14 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Particles.prototype.acts.SetAngle,
 	cr.system_object.prototype.cnds.TriggerOnce,
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
-	cr.plugins_.Sprite.prototype.acts.SetAnim,
 	cr.system_object.prototype.acts.Wait,
 	cr.system_object.prototype.acts.GoToLayout,
 	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
+	cr.system_object.prototype.cnds.OnLayoutEnd,
+	cr.plugins_.Audio.prototype.acts.Stop,
+	cr.plugins_.Audio.prototype.acts.SetSilent,
 	cr.plugins_.Touch.prototype.cnds.OnTapGesture,
 	cr.system_object.prototype.cnds.EveryTick,
-	cr.plugins_.Button.prototype.cnds.OnClicked
+	cr.plugins_.Sprite.prototype.acts.StartAnim
 ];};
 
