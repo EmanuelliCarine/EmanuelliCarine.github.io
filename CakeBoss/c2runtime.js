@@ -25856,11 +25856,11 @@ cr.behaviors.Physics = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio,
 	cr.plugins_.Button,
-	cr.plugins_.Sprite,
-	cr.plugins_.Particles,
 	cr.plugins_.Text,
+	cr.plugins_.Particles,
 	cr.plugins_.Touch,
 	cr.plugins_.Spritefont2,
+	cr.plugins_.Sprite,
 	cr.plugins_.TiledBg,
 	cr.behaviors.Bullet,
 	cr.behaviors.DragnDrop,
