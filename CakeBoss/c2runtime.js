@@ -25854,14 +25854,14 @@ cr.behaviors.Physics = function(runtime)
 	behaviorProto.exps = new Exps();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Button,
 	cr.plugins_.Audio,
+	cr.plugins_.Button,
+	cr.plugins_.Sprite,
+	cr.plugins_.Particles,
 	cr.plugins_.Text,
 	cr.plugins_.Touch,
-	cr.plugins_.Particles,
-	cr.plugins_.Sprite,
-	cr.plugins_.TiledBg,
 	cr.plugins_.Spritefont2,
+	cr.plugins_.TiledBg,
 	cr.behaviors.Bullet,
 	cr.behaviors.DragnDrop,
 	cr.behaviors.Physics,
