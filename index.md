@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-Criando **minha**, _página_, or ~~Principal~~.
-  pular linha
   
 # Quem sou eu
 
