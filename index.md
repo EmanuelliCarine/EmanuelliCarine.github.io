@@ -6,10 +6,12 @@ layout: default
 
 Discente do curso técnico em Programação de Jogos Digitais, na turma 17015 - Técnico de Nível Médio em Programação de Jogos Digitais, na Forma Integrado (2015) - Câmpus Ceará-Mirim (CAMPUS CEARÁ-MIRIM)
 
+![](MANU.png)
+
 # Contatos
 
-* Email pessoal: emanuelli_carine@hotmail.com
-* Email acadêmico: emanuelli.carine@academico.ifrn.edu.br
+* Email pessoal: (https://emanuelli_carine@hotmail.com)
+* Email acadêmico: (https://emanuelli.carine@academico.ifrn.edu.br)
 * Facebook: Emanuelli Carine
 
 # Portifólio:
@@ -17,16 +19,16 @@ Discente do curso técnico em Programação de Jogos Digitais, na turma 17015 - 
 ## Games
 
 * Jogo com a temática cultura: Guerreiro da Floresta
-[Jogo 1 oficina de criação : ![](gf.png)][https://emanuellicarine.github.io/GuerreiroDaFloresta]
+[Jogo 1 oficina de criação : ![](gf.png)] (https://emanuellicarine.github.io/GuerreiroDaFloresta)
   
 * Jogo com a temática mensagem: Cake Boss
-[Jogo 2 oficina de criação : ![](cakeboss.png)](https://emanuellicarine.github.io/CakeBoss)
+[Jogo 2 oficina de criação : ![](cakeboss.png)] (https://emanuellicarine.github.io/CakeBoss)
   
 * Jogo com temática educacional: Jogando Limpo (serious game, voltado para o ensino infantil - em desenvolvimento)
-[Jogo 3 Projeto de Pesquisa : Jogando Limpo](https://zevictor.github.io/ProjetoJogo)
+[Jogo 3 Projeto de Pesquisa : Jogando Limpo] (https://zevictor.github.io/ProjetoJogo)
   
 * Jogo com a temática saúde: PROTECTING MY MOUTH (serious game, voltado para o público infantil - em desenvolvimento)
-[Jogo 4 Projeto de Pesquisa : Jogando Limpo](https://alex-alves.github.io/TD/)
+[Jogo 4 Projeto de Pesquisa : Jogando Limpo] (https://alex-alves.github.io/TD/)
 
 ## Artes
 
