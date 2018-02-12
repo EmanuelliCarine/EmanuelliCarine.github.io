@@ -4,9 +4,9 @@ layout: default
   
 # Quem sou eu
 
-Discente do curso técnico em Programação de Jogos Digitais, na turma 17015 - Técnico de Nível Médio em Programação de Jogos Digitais, na Forma Integrado (2015) - Câmpus Ceará-Mirim (CAMPUS CEARÁ-MIRIM)
+Chamo-me Emanuelli Carine, estudante no estabelecimento de ensino IFRN, na turma 17015 - Técnico de Nível Médio em Programação de Jogos Digitais, na Forma Integrado (ano de ingresso 2015)
 
-![](MANU.png)
+![](MANU.jpg)
 
 # Contatos
 
