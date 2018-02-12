@@ -2,13 +2,13 @@
 layout: default
 ---
   
-# Quem sou eu
+# Quem sou eu?
 
 Chamo-me Emanuelli Carine, estudante no estabelecimento de ensino IFRN, na turma 17015 - Técnico de Nível Médio em Programação de Jogos Digitais, na Forma Integrado (ano de ingresso 2015)
 
 ![](MANU.jpg)
 
-# Contatos
+# Contatos:
 
 * Email pessoal: emanuelli_carine@hotmail.com
 * Email acadêmico: https://emanuelli.carine@academico.ifrn.edu.br
