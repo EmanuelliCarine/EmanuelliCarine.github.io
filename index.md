@@ -53,7 +53,7 @@ Chamo-me Emanuelli Carine, estudante no estabelecimento de ensino IFRN, na turma
   
 * MOSTRATEC - RS  (2017), como finalista credenciada pela FENECIT
   
-* EXPOTEC - CM  (2017), como expositora em apresentação oral com o projeto do Rio Ceará-Mirim e na modalidade oral com o projeto da GAMETERAPIA
+* EXPOTEC - CM  (2017), como expositora em apresentação oral com o projeto do Rio Ceará-Mirim e na modalidade poster com o projeto da GAMETERAPIA
   
 * II semana de informática do campus Nova Cruz  (2018), como expositora na modalidade oral a cerca do curso de jogos dgitais e apresentação do projeto de pesquisa do Rio Ceará-Mirim
 
