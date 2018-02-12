@@ -12,7 +12,7 @@ Discente do curso técnico em Programação de Jogos Digitais, atualmente cursan
 ## Games
 
 * Jogo com a temática cultura: Guerreiro da Floresta
-[Jogo 1 oficina de criação : ![](gf.png)](emanuellicarine.github.io/GuerreiroDaFloresta)
+[Jogo 1 oficina de criação : ![](gf.png)][emanuellicarine.github.io/GuerreiroDaFloresta]
   
 * Jogo com a temática mensagem: Cake Boss
 [Jogo 2 oficina de criação : ![](cakeboss.png)](emanuellicarine.github.io/CakeBoss)
