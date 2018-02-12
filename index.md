@@ -7,7 +7,7 @@ Criando **minha**, _página_, or ~~Principal~~.
   
 # Quem sou eu
 
-Sou uma estudante do curso técnico em Programação de Jogos Digitais, atualmente cursando o sexto periodo do curso (3º ano).
+Discente do curso técnico em Programação de Jogos Digitais, atualmente cursando o sexto periodo do curso (3º ano).
 
   
 # Portifólio:
@@ -15,28 +15,31 @@ Sou uma estudante do curso técnico em Programação de Jogos Digitais, atualmen
 ## Games
 
 * Jogo com a temática cultura: Guerreiro da Floresta
-[Jogo 1 oficina de criação : ![](gf.png)](emanuellicarine.github.io/GuerreiroDaFloresta)
+[Jogo 1 oficina de criação : ![](gf.png)](link: emanuellicarine.github.io/GuerreiroDaFloresta)
+  
 * Jogo com a temática mensagem: Cake Boss
-[Jogo 2 oficina de criação : ![](cakeboss.png)](emanuellicarine.github.io/CakeBoss)
+[Jogo 2 oficina de criação : ![](cakeboss.png)](link: emanuellicarine.github.io/CakeBoss)
+  
 * Jogo com temática educacional: Jogando Limpo (serious game, voltado para o ensino infantil - em desenvolvimento)
-[Jogo 3 Projeto de Pesquisa : Jogando Limpo](zevictor.github.io/ProjetoJogo)
+[Jogo 3 Projeto de Pesquisa : Jogando Limpo](link: zevictor.github.io/ProjetoJogo)
+  
 * Jogo com a temática saúde: PROTECTING MY MOUTH (serious game, voltado para o público infantil - em desenvolvimento)
-[Jogo 4 Projeto de Pesquisa : Jogando Limpo](alex-alves.github.io/TD/)
+[Jogo 4 Projeto de Pesquisa : Jogando Limpo](link: alex-alves.github.io/TD/)
 
 ## Artes
 
 ![IMAGEM](https://img00.deviantart.net/2248/i/2015/005/d/6/ps4_controller___pixel_art_by_amaniness-d8cr833.png)
 ![](MARIO.png)
 
-## Apresentações
+## Participações em eventos
 
-* MOCITEC - ZN, Como finalista com o projeto de pesquisa sobre as Mulheres de Ceará-Mirim
+* MOCITEC - ZN, como finalista com o projeto de pesquisa sobre as Mulheres de Ceará-Mirim
 * II Semana do Meio Ambiente do Campus Ceará-Mirim, como expositora da modalidade oral, com o projeto de pesquisa do Rio Ceará-Mirim
 * II Samana do Meio Ambiente, com o mini curso: Programando ideias sustentáveis
-* FENECIT - PE, Como finalista com o projeto GAMETERAPIA
+* FENECIT - PE, como finalista com o projeto GAMETERAPIA
 * EXPOTEC - APODI, como expositora do projeto do Rio Ceará-Mirim
 * EXPOTEC - APODI, com o mini curso: Programando
-* MOSTRATEC - RS, Como finalista credenciada pela FENECIT
+* MOSTRATEC - RS, como finalista credenciada pela FENECIT
 * EXPOTEC - CM, como expositora em apresentação oral com o projeto do Rio Ceará-Mirim e na modalidade oral com o projeto da GAMETERAPIA
 * II semana de informática do campus Nova Cruz, como expositora na modalidade oral a cerca do curso de jogos dgitais e apresentação do projeto de pesquisa do Rio Ceará-Mirim
 
@@ -52,8 +55,8 @@ Sou uma estudante do curso técnico em Programação de Jogos Digitais, atualmen
 ## Premiações
 
 * Primeiro lugar na área da saúde, com o projeto GAMETERAPIA (FENECIT - PE, 2017)
-* Credenciamento para a 32ª edição da mostratec, 2017
+* Credenciamento para a 32ª edição da mostratec, 2017 (FENECIT - PE, 2017)
 * Primeiro lugar na área da educação, com o projeto JOGANDO LIMPO COM O RIO CEARÁ-MIRIM (EXPOTEC Apodi, 2017)
 * Credenciamento para a MOCICA 2018, no Ceará (MOCITEC - ZN, 2017)
 
-## Eventos
+## Palestras 
