@@ -18,13 +18,13 @@ Discente do curso técnico em Programação de Jogos Digitais, atualmente cursan
 [Jogo 1 oficina de criação : ![](gf.png)](LINK: emanuellicarine.github.io/GuerreiroDaFloresta)
   
 * Jogo com a temática mensagem: Cake Boss
-[Jogo 2 oficina de criação : ![](cakeboss.png)](link: emanuellicarine.github.io/CakeBoss)
+[Jogo 2 oficina de criação : ![](cakeboss.png)](emanuellicarine.github.io/CakeBoss)
   
 * Jogo com temática educacional: Jogando Limpo (serious game, voltado para o ensino infantil - em desenvolvimento)
-[Jogo 3 Projeto de Pesquisa : Jogando Limpo](link: zevictor.github.io/ProjetoJogo)
+[Jogo 3 Projeto de Pesquisa : Jogando Limpo](zevictor.github.io/ProjetoJogo)
   
 * Jogo com a temática saúde: PROTECTING MY MOUTH (serious game, voltado para o público infantil - em desenvolvimento)
-[Jogo 4 Projeto de Pesquisa : Jogando Limpo](link: alex-alves.github.io/TD/)
+[Jogo 4 Projeto de Pesquisa : Jogando Limpo](alex-alves.github.io/TD/)
 
 ## Artes
 
