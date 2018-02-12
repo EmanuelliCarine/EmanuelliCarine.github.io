@@ -15,7 +15,7 @@ Discente do curso técnico em Programação de Jogos Digitais, atualmente cursan
 ## Games
 
 * Jogo com a temática cultura: Guerreiro da Floresta
-[Jogo 1 oficina de criação : ![](gf.png)](link: emanuellicarine.github.io/GuerreiroDaFloresta)
+[Jogo 1 oficina de criação : ![](gf.png)](LINK: emanuellicarine.github.io/GuerreiroDaFloresta)
   
 * Jogo com a temática mensagem: Cake Boss
 [Jogo 2 oficina de criação : ![](cakeboss.png)](link: emanuellicarine.github.io/CakeBoss)
@@ -33,23 +33,25 @@ Discente do curso técnico em Programação de Jogos Digitais, atualmente cursan
 
 ## Participações em eventos
 
-* MOCITEC - ZN, como finalista com o projeto de pesquisa sobre as Mulheres de Ceará-Mirim
+* MOCITEC - ZN (2015), como finalista com o projeto de pesquisa sobre as Mulheres de Ceará-Mirim
   
-* II Semana do Meio Ambiente do Campus Ceará-Mirim, como expositora da modalidade oral, com o projeto de pesquisa do Rio Ceará-Mirim
+* Semana do município de Ceará-Mirim (2016), como expositora do curso técnico em Programação de Jogos Digitais do campus IFRN, Ceará-Mirim, na modalidade poster
   
-* II Samana do Meio Ambiente, com o mini curso: Programando ideias sustentáveis
+* II Semana do Meio Ambiente do Campus Ceará-Mirim (2017), como expositora da modalidade oral, com o projeto de pesquisa do Rio Ceará-Mirim
   
-* FENECIT - PE, como finalista com o projeto GAMETERAPIA
+* II Samana do Meio Ambiente (2017), com o mini curso: Programando ideias sustentáveis
   
-* EXPOTEC - APODI, como expositora do projeto do Rio Ceará-Mirim
+* FENECIT - PE (2017), como finalista com o projeto GAMETERAPIA
   
-* EXPOTEC - APODI, com o mini curso: Programando
+* EXPOTEC - APODI (2017), como expositora do projeto do Rio Ceará-Mirim
   
-* MOSTRATEC - RS, como finalista credenciada pela FENECIT
+* EXPOTEC - APODI (2017), com o mini curso: Programando
   
-* EXPOTEC - CM, como expositora em apresentação oral com o projeto do Rio Ceará-Mirim e na modalidade oral com o projeto da GAMETERAPIA
+* MOSTRATEC - RS  (2017), como finalista credenciada pela FENECIT
   
-* II semana de informática do campus Nova Cruz, como expositora na modalidade oral a cerca do curso de jogos dgitais e apresentação do projeto de pesquisa do Rio Ceará-Mirim
+* EXPOTEC - CM  (2017), como expositora em apresentação oral com o projeto do Rio Ceará-Mirim e na modalidade oral com o projeto da GAMETERAPIA
+  
+* II semana de informática do campus Nova Cruz  (2018), como expositora na modalidade oral a cerca do curso de jogos dgitais e apresentação do projeto de pesquisa do Rio Ceará-Mirim
 
 
 ## Projetos
@@ -66,9 +68,9 @@ Discente do curso técnico em Programação de Jogos Digitais, atualmente cursan
 
 ## Premiações
 
-* Primeiro lugar na área da saúde, com o projeto GAMETERAPIA (FENECIT - PE, 2017)
+* Primeiro lugar na categoria ciências da saúde, com o projeto GAMETERAPIA: UMA FORMA DE UNIR JOGOS DIGITAIS A REABILITAÇÃO DE PACIENTES ACOMETIDOS PELO ACIDENTE VASCULAR ENCEFÁLICO (AVE) (FENECIT - PE, 2017)
   
-* Credenciamento para a 32ª edição da mostratec, 2017 (FENECIT - PE, 2017)
+* Credenciamento do projeto GAMETERAPIA: UMA FORMA DE UNIR JOGOS DIGITAIS A REABILITAÇÃO DE PACIENTES ACOMETIDOS PELO ACIDENTE VASCULAR ENCEFÁLICO (AVE) para a 32ª edição da mostratec, 2017 (Projeto credenciado na FENECIT - PE, 2017)
   
 * Primeiro lugar na área da educação, com o projeto JOGANDO LIMPO COM O RIO CEARÁ-MIRIM (EXPOTEC Apodi, 2017)
   
