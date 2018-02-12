@@ -10,8 +10,8 @@ Discente do curso técnico em Programação de Jogos Digitais, na turma 17015 - 
 
 # Contatos
 
-* Email pessoal: (https://emanuelli_carine@hotmail.com)
-* Email acadêmico: (https://emanuelli.carine@academico.ifrn.edu.br)
+* Email pessoal: emanuelli_carine@hotmail.com
+* Email acadêmico: https://emanuelli.carine@academico.ifrn.edu.br
 * Facebook: Emanuelli Carine
 
 # Portifólio:
