@@ -4,7 +4,7 @@ layout: default
   
 # Quem sou eu?
 
-Chamo-me Emanuelli Carine, estudante no estabelecimento de ensino IFRN, na turma 17015 - Técnico de Nível Médio em Programação de Jogos Digitais, na Forma Integrado (ano de ingresso 2015)
+Chamo-me Emanuelli Carine, discente no estabelecimento de ensino IFRN, na turma 17015 - Técnico de Nível Médio em Programação de Jogos Digitais, na Forma Integrado (ano de ingresso 2015)
 
 ![](MANU.jpg)
 
@@ -25,7 +25,7 @@ Chamo-me Emanuelli Carine, estudante no estabelecimento de ensino IFRN, na turma
 [Jogo 2 oficina de criação : ![](cakeboss.png)](https://emanuellicarine.github.io/CakeBoss)
   
 * Jogo com temática educacional: Jogando Limpo (serious game, voltado para o ensino infantil - em desenvolvimento)
-[Jogo 3 Projeto de Pesquisa : Jogando Limpo ![](jogando.jpeg)](https://zevictor.github.io/ProjetoJogo)
+[Jogo 3 Projeto de Pesquisa : Jogando Limpo ![]()](https://zevictor.github.io/ProjetoJogo)
   
 * Jogo com a temática saúde: PROTECTING MY MOUTH (serious game, voltado para o público infantil - em desenvolvimento)
 [Jogo 4 Projeto de Pesquisa : Jogando Limpo](https://alex-alves.github.io/TD/)
@@ -80,4 +80,16 @@ Chamo-me Emanuelli Carine, estudante no estabelecimento de ensino IFRN, na turma
   
 * Credenciamento para a MOCICA 2018, no Ceará (MOCITEC - ZN, 2017)
 
-## Palestras 
+## Registros fotograficos
+  
+  EXPOTEC - APODI (Apresentação em poster, prjeto "JOGANDO LIMPO COM O RIO CEARÁ-MIRIM)
+  
+![](a.png)
+  
+  II SEMANA DE INFORMÁTICA DO AGRESTE POTIGUAR - CAMPUS NOVA CRUZ (Comunicação oral, apresentação do curso em PJD)
+    
+![](nc.png)!
+  
+  EXPOTEC - CEARÁ-MIRIM (Comunicação oral, prjeto "JOGANDO LIMPO COM O RIO CEARÁ-MIRIM)
+  
+![](cm.png)
