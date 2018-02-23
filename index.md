@@ -25,14 +25,13 @@ Chamo-me Emanuelli Carine, discente no estabelecimento de ensino IFRN - campus C
 [Jogo 2 oficina de criação : ![](cakeboss.png)](https://emanuellicarine.github.io/CakeBoss)
   
 * Jogo com temática educacional: Jogando Limpo (serious game, voltado para o ensino infantil - em desenvolvimento)
-[Jogo 3 Projeto de Pesquisa : Jogando Limpo ![]()](https://zevictor.github.io/ProjetoJogo)
+[Jogo 3 Projeto de Pesquisa : Jogando Limpo ![](jl.png)](https://zevictor.github.io/ProjetoJogo)
   
 * Jogo com a temática saúde: PROTECTING MY MOUTH (serious game, voltado para o público infantil - em desenvolvimento)
-[Jogo 4 Projeto de Pesquisa : Jogando Limpo](https://alex-alves.github.io/TD/)
+[Jogo 4 Projeto integrador : Protecting My Mouth ![](pm.png)](https://alex-alves.github.io/TD/)
 
-## Artes
+## Arte
 
-![IMAGEM](https://img00.deviantart.net/2248/i/2015/005/d/6/ps4_controller___pixel_art_by_amaniness-d8cr833.png)
 ![](MARIO.png)
 
 ## Projetos
@@ -109,4 +108,4 @@ Chamo-me Emanuelli Carine, discente no estabelecimento de ensino IFRN - campus C
    FENECIT 13 (PE, 2017 - apresentação em poster)
    
  ![](fen.png)
-    Participantes: Emanuelli Carine e João Pedro
+   Participantes: Emanuelli Carine e João Pedro
