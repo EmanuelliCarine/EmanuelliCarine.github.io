@@ -4,7 +4,7 @@ layout: default
   
 # Quem sou eu?
 
-Chamo-me Emanuelli Carine, discente no estabelecimento de ensino IFRN, na turma 17015 - Técnico de Nível Médio em Programação de Jogos Digitais, na Forma Integrado (ano de ingresso 2015)
+Chamo-me Emanuelli Carine, discente no estabelecimento de ensino IFRN - campus Ceará-Mirim, na turma 17015 - Técnico de Nível Médio em Programação de Jogos Digitais, na Forma Integrado (ano de ingresso 2015)
 
 ![](MANU.jpg)
 
@@ -35,6 +35,18 @@ Chamo-me Emanuelli Carine, discente no estabelecimento de ensino IFRN, na turma 
 ![IMAGEM](https://img00.deviantart.net/2248/i/2015/005/d/6/ps4_controller___pixel_art_by_amaniness-d8cr833.png)
 ![](MARIO.png)
 
+## Projetos
+
+* MULHERES DE CEARÁ-MIRIM CRÍTICA LITERÁRIA AO ACERVO PRODUZIDO POR MULHERES DURANTE INÍCIO DO SÉCULO XX - 2015
+  
+* JOGANDO LIMPO COM O RIO CEARÁ-MIRIM - 2017/2018
+  
+* GAMETERAPIA: UMA FORMA DE UNIR JOGOS DIGITAIS A REABILITAÇÃO DE PACIENTES ACOMETIDOS PELO ACIDENTE VASCULAR ENCEFÁLICO (AVE) - 2017
+  
+* PROTECTING MY MOUTH: UMA FERRAMENTA LÚDICA PARA O AUXÍLIO E PREVENÇÃO À PATOLOGIAS BUCAIS - 2017/2018
+  
+* ESTUDO DE CASO: A GAMETERAPIA COMO UMA FERRAMENTA AUXILIAR NA REABILITAÇÃO DE IDOSOS COM A NEUROFUNCIONALIDADE COMPROMETIDAPELO ACIENTE VASCULAR ENCEFÁLICO (AVE) - 2017/2018
+
 ## Participações em eventos
 
 * MOCITEC - ZN (2015), como finalista com o projeto de pesquisa sobre as Mulheres de Ceará-Mirim
@@ -57,19 +69,6 @@ Chamo-me Emanuelli Carine, discente no estabelecimento de ensino IFRN, na turma 
   
 * II semana de informática do campus Nova Cruz  (2018), como expositora na modalidade oral a cerca do curso de jogos dgitais e apresentação do projeto de pesquisa do Rio Ceará-Mirim
 
-
-## Projetos
-
-* MULHERES DE CEARÁ-MIRIM CRÍTICA LITERÁRIA AO ACERVO PRODUZIDO POR MULHERES DURANTE INÍCIO DO SÉCULO XX - 2015
-  
-* JOGANDO LIMPO COM O RIO CEARÁ-MIRIM - 2017/2018
-  
-* GAMETERAPIA: UMA FORMA DE UNIR JOGOS DIGITAIS A REABILITAÇÃO DE PACIENTES ACOMETIDOS PELO ACIDENTE VASCULAR ENCEFÁLICO (AVE) - 2017
-  
-* PROTECTING MY MOUTH: UMA FERRAMENTA LÚDICA PARA O AUXÍLIO E PREVENÇÃO À PATOLOGIAS BUCAIS - 2017/2018
-  
-* ESTUDO DE CASO: A GAMETERAPIA COMO UMA FERRAMENTA AUXILIAR NA REABILITAÇÃO DE IDOSOS COM A NEUROFUNCIONALIDADE COMPROMETIDAPELO ACIENTE VASCULAR ENCEFÁLICO (AVE) - 2017/2018
-
 ## Premiações
 
 * Primeiro lugar na categoria ciências da saúde, com o projeto GAMETERAPIA: UMA FORMA DE UNIR JOGOS DIGITAIS A REABILITAÇÃO DE PACIENTES ACOMETIDOS PELO ACIDENTE VASCULAR ENCEFÁLICO (AVE) (FENECIT - PE, 2017)
@@ -85,11 +84,17 @@ Chamo-me Emanuelli Carine, discente no estabelecimento de ensino IFRN, na turma 
   EXPOTEC - APODI (Apresentação em poster, prjeto "JOGANDO LIMPO COM O RIO CEARÁ-MIRIM)
   
 ![](a.png)
+  Foto: Miguel Pereira Neto
+  Participantes: Emanuelli Carine e José Victor
   
-  II SEMANA DE INFORMÁTICA DO AGRESTE POTIGUAR - CAMPUS NOVA CRUZ (Comunicação oral, apresentação do curso em PJD)
+  II SEMANA DE INFORMÁTICA DO AGRESTE POTIGUAR - CAMPUS NOVA CRUZ (Comunicação oral, apresentação do curso técnico em PJD)
     
-![](nc.png)!
+![](nc.png)
+  Foto: Alexsandro Alves
+  Participantes: Emanuelli Carine e José Victor
   
-  EXPOTEC - CEARÁ-MIRIM (Comunicação oral, prjeto "JOGANDO LIMPO COM O RIO CEARÁ-MIRIM)
+  EXPOTEC - CEARÁ-MIRIM (Comunicação oral, projeto "JOGANDO LIMPO COM O RIO CEARÁ-MIRIM)
   
 ![](cm.png)
+  Foto: Maria Beatriz
+  Participantes: Emanuelli Carine e José Victor
