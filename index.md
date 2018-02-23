@@ -97,4 +97,6 @@ Chamo-me Emanuelli Carine, discente no estabelecimento de ensino IFRN - campus C
   
 ![](cm.png)
   Foto: Maria Beatriz
-  Participantes: Emanuelli Carine e José Victor
+    Participantes: da esquerda para a direita: Cybelle Marques, Videanny Videnov, Emanuelli Carine, José Victor e Stanley Medeiros
+    
+ ![](WhatsApp Image 2018-02-23 at 7.42.28 PM (1),jpeg)
