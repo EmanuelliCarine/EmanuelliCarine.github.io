@@ -33,7 +33,8 @@ Chamo-me Emanuelli Carine, discente no estabelecimento de ensino IFRN - campus C
 ## Arte
 
 ![](MARIO.png)
-
+  Mário pixel art 
+  
 ## Projetos
 
 * MULHERES DE CEARÁ-MIRIM CRÍTICA LITERÁRIA AO ACERVO PRODUZIDO POR MULHERES DURANTE INÍCIO DO SÉCULO XX - 2015
@@ -109,3 +110,7 @@ Chamo-me Emanuelli Carine, discente no estabelecimento de ensino IFRN - campus C
    
  ![](fen.png)
    Participantes: Emanuelli Carine e João Pedro
+   
+  ##Créditos
+  
+  Página desenvolvida por Emanuelli Carine, como requisito parcial da disciplina de Motores de Jogos Digitais
