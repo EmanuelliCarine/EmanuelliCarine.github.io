@@ -84,35 +84,29 @@ Chamo-me Emanuelli Carine, discente no estabelecimento de ensino IFRN - campus C
   EXPOTEC - APODI (Apresentação em poster, prjeto "JOGANDO LIMPO COM O RIO CEARÁ-MIRIM)
   
 ![](a.png)
-  Foto: Miguel Pereira Neto
   Participantes: Emanuelli Carine e José Victor
   
   II SEMANA DE INFORMÁTICA DO AGRESTE POTIGUAR - CAMPUS NOVA CRUZ (Comunicação oral, apresentação do curso técnico em PJD)
     
 ![](nc.png)
-  Foto: Alexsandro Alves
-    Participantes: Emanuelli Carine e José Victor
+  Participantes: Emanuelli Carine e José Victor
   
   EXPOTEC - CEARÁ-MIRIM (Comunicação oral, projeto "JOGANDO LIMPO COM O RIO CEARÁ-MIRIM)
   
 ![](cm.png)
-  Foto: Maria Beatriz
-      Participantes: da esquerda para a direita: Cybelle Marques, Videanny Videnov, Emanuelli Carine, José Victor e Stanley Medeiros
+  Participantes: da esquerda para a direita: Cybelle Marques, Videanny Videnov, Emanuelli Carine, José Victor e Stanley Medeiros
     
    MOSTRATEC 2017 (RS, 2017 - apresentação em poster)
    
  ![](most.png)
-   Foto: Mostratec
-      Participantes: da esquerda para a direita: Emanuelli Carine, Videanny Videnov e Matheus Ricardo
+   Participantes: da esquerda para a direita: Emanuelli Carine, Videanny Videnov e Matheus Ricardo
     
    MOCITEC ZN (2015 - apresentação em poster)
    
  ![](moc.png)
-   Foto: Mocitec ZN
    Participantes: da esquerda para a direita: Maria Ruthillena, Emanuelli Carine e Byanka Cavalcanti
  
    FENECIT 13 (PE, 2017 - apresentação em poster)
    
  ![](fen.png)
-    Foto: FENECIT 13
-      Participantes: Emanuelli Carine e João Pedro
+    Participantes: Emanuelli Carine e João Pedro
